@@ -1,0 +1,2 @@
+# powershell
+Welcome to the PowerShell GitHub Community! PowerShell Core is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell and scripts developed in powershell to automate different tasks (Windows Administration, File System Management, Excel Automation etc)
